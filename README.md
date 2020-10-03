@@ -1,4 +1,9 @@
 # Fluke Calibration Categories Table
+## Deployed
+
+### https://hrshtpnt.github.io/fluke_calibration_categories/
+
+### Screenshot
 
 ![alt text](https://github.com/hrshtpnt/fluke_calibration_categories/blob/master/src/images/fluke_assignment.PNG?raw=true)
 
