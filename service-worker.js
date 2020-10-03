@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fluke_calibration_categories/precache-manifest.5362f67bd7aa3d8346d5cba10750c080.js"
+  "/fluke_calibration_categories/precache-manifest.6f5c777aca712fa76c4478efbe675d1f.js"
 );
 
 self.addEventListener('message', (event) => {
