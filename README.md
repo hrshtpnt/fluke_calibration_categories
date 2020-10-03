@@ -1,6 +1,6 @@
 # Fluke Calibration Categories Table
 
-![alt text](https://github.com/hrshtpnt/fluke_calibration_categories/src/images/master/image.jpg?raw=true)
+![alt text](https://github.com/hrshtpnt/fluke_calibration_categories/blob/master/src/images/fluke_assignment.PNG?raw=true)
 
 ## What is the use of this Repo
 
