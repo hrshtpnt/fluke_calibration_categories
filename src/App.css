@@ -1,4 +1,7 @@
 .App {
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
   text-align: center;
 }
 
@@ -12,8 +15,9 @@
   margin-bottom: 10px;
 }
 footer {
-  display: block;
   padding: 10px;
   margin-top: 10px;
+  bottom: 0;
+  position: fixed;
+  width: 100%;
 }
-
